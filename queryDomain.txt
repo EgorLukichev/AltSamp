@@ -1,1 +1,1 @@
-http://тут-чекер-онлайна.рф
+https://query.romzes.com/api.php?ip={IP}&port={PORT}
